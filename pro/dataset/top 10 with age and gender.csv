@@ -1,0 +1,172 @@
+"","title","category","mean_vote"
+"1","The Moving on Phase","non_us_voters_rating",9.5
+"2","Lejos de Casa pelicula Venezolana","non_us_voters_rating",9.8
+"3","Suvarna Sundari","non_us_voters_rating",9.7
+"4","Notuku Potu","non_us_voters_rating",9.7
+"5","Ek","non_us_voters_rating",9.6
+"6","Sri Bharatha Baahubali","non_us_voters_rating",8.9
+"7","Meka Suri","non_us_voters_rating",9.8
+"8","Breakout","non_us_voters_rating",8.8
+"9","Jeeudo","non_us_voters_rating",9.6
+"10","Hopeful Notes","non_us_voters_rating",9.7
+"11","Â¿QuÃ© hacemos con los hijos?","us_voters_rating",5.5
+"12","Â¡Vaya par de gemelos!","us_voters_rating",5.5
+"13","Das gefrorene Herz","us_voters_rating",7.5
+"14","Gib Gas - Ich will SpaÃŸ!","us_voters_rating",4.5
+"15","La hora bruja","us_voters_rating",7.6
+"16","Les mois d'avril sont meurtriers","us_voters_rating",7
+"17","Mi general","us_voters_rating",6.5
+"18","Balanga","us_voters_rating",5.7
+"19","Oh Boy!","us_voters_rating",6
+"20","Angelo, FrÃ©do et RomÃ©o","us_voters_rating",2.2
+"21","Convivencia","top1000_voters_rating",6.6
+"22","Tou tou ai ni","top1000_voters_rating",7.2
+"23","Dovidjenja u Cikagu","top1000_voters_rating",5.1
+"24","O pseftis","top1000_voters_rating",5.5
+"25","Ustaad","top1000_voters_rating",6.9
+"26","Narendran Makan Jayakanthan Vaka","top1000_voters_rating",6.5
+"27","Never Among Friends","top1000_voters_rating",6.7
+"28","Kunjikkoonan","top1000_voters_rating",6.6
+"29","Chronic Bachelor","top1000_voters_rating",6.7
+"30","Balettan","top1000_voters_rating",6.6
+"31","L'uomo dal coltello a serramanico","females_45age_avg_vote",6.7
+"32","Ripudiata","females_45age_avg_vote",6.4
+"33","Il figlio del disertore","females_45age_avg_vote",6.9
+"34","Fermo con le mani","females_45age_avg_vote",6.5
+"35","Sky Giant","females_45age_avg_vote",6.7
+"36","The Spider Returns","females_45age_avg_vote",6.8
+"37","Chetniks","females_45age_avg_vote",7.2
+"38","The Cowboy and the Indians","females_45age_avg_vote",6.8
+"39","Federal Agents vs. Underworld, Inc.","females_45age_avg_vote",6
+"40","Il doppio segno di Zorro","females_45age_avg_vote",6.4
+"41","A Girl's Folly","females_30age_avg_vote",6.3
+"42","Der KlosterjÃ¤ger","females_30age_avg_vote",8.6
+"43","Dream Street","females_30age_avg_vote",5.9
+"44","The Sorrows of Satan","females_30age_avg_vote",7.2
+"45","Almost Human","females_30age_avg_vote",7.4
+"46","Giorni felici","females_30age_avg_vote",7
+"47","Mrs. Wiggs of the Cabbage Patch","females_30age_avg_vote",6.4
+"48","Once to Every Woman","females_30age_avg_vote",6.9
+"49","Il falco nero","females_30age_avg_vote",6.8
+"50","North of the Rio Grande","females_30age_avg_vote",7
+"51","Straight Shooting","females_18age_avg_vote",6.2
+"52","The Whispering Chorus","females_18age_avg_vote",6.5
+"53","Harakiri","females_18age_avg_vote",5.7
+"54","Die Pest in Florenz","females_18age_avg_vote",6.5
+"55","Algol - TragÃ¶die der Macht","females_18age_avg_vote",6.7
+"56","April Folly","females_18age_avg_vote",8.4
+"57","Der KlosterjÃ¤ger","females_18age_avg_vote",8.6
+"58","The Restless Sex","females_18age_avg_vote",8.4
+"59","Sex","females_18age_avg_vote",6.6
+"60","Ducks and Drakes","females_18age_avg_vote",7.2
+"61","Dr. Jekyll e Mr. Hyde","females_0age_avg_vote",7.1
+"62","Il tenente di Napoleone","females_0age_avg_vote",6.7
+"63","Tom Sawyer","females_0age_avg_vote",6.6
+"64","L'Ã¢ge d'or","females_0age_avg_vote",7.4
+"65","DrÃ¡cula","females_0age_avg_vote",7.2
+"66","Il dottor X","females_0age_avg_vote",6.5
+"67","The Mask of Fu Manchu","females_0age_avg_vote",6.4
+"68","Nasanunaka","females_0age_avg_vote",6.9
+"69","Kimi to wakarete","females_0age_avg_vote",7.1
+"70","Il vampiro","females_0age_avg_vote",5.8
+"71","Flying Disc Man from Mars","females_allages_avg_vote",5.8
+"72","La roccia di fuoco","females_allages_avg_vote",5.9
+"73","The Fat Black Pussycat","females_allages_avg_vote",4.9
+"74","Killer, adios","females_allages_avg_vote",6.1
+"75","Huang jiang nu xia","females_allages_avg_vote",6.5
+"76","Cain's Cutthroats","females_allages_avg_vote",5.4
+"77","Motorvej pÃ¥ sengekanten","females_allages_avg_vote",4.8
+"78","Il guardone","females_allages_avg_vote",6.4
+"79","Romantik pÃ¥ sengekanten","females_allages_avg_vote",4.7
+"80","Ghazal","females_allages_avg_vote",6.9
+"81","Parthen Rasithen","males_45age_avg_vote",7
+"82","Ikinci pÃ¤rdÃ¤","males_45age_avg_vote",8.7
+"83","2 States","males_45age_avg_vote",8.9
+"84","Jeeudo","males_45age_avg_vote",9.6
+"85","Dujone","males_45age_avg_vote",5.7
+"86","Ami Shubhash Bolchi","males_45age_avg_vote",7
+"87","Hollywood Mouth 2","males_45age_avg_vote",3.4
+"88","Jil","males_45age_avg_vote",6.1
+"89","Vitamin She","males_45age_avg_vote",7.4
+"90","Six X","males_45age_avg_vote",7.7
+"91","Hello London","males_30age_avg_vote",9
+"92","The Pigeon Egg Strategy","males_30age_avg_vote",8.9
+"93","Edadugula Bandham","males_30age_avg_vote",9.4
+"94","The Violent Kind","males_30age_avg_vote",8.2
+"95","Venussian Tabutasco","males_30age_avg_vote",9.5
+"96","Tenussian Vacuvasco","males_30age_avg_vote",9.1
+"97","Have Love, Will Travel","males_30age_avg_vote",8.7
+"98","Adhirindhi Alludu","males_30age_avg_vote",8.9
+"99","Shut Up and Deal","males_30age_avg_vote",5
+"100","Jeeudo","males_30age_avg_vote",9.6
+"101","The Nigger","males_18age_avg_vote",7
+"102","The Flirting Widow","males_18age_avg_vote",6.6
+"103","True to the Navy","males_18age_avg_vote",7
+"104","New Adventures of Get-Rich-Quick Wallingford","males_18age_avg_vote",8.1
+"105","Rebound","males_18age_avg_vote",6.4
+"106","I conquistatori","males_18age_avg_vote",6.5
+"107","365 Nights in Hollywood","males_18age_avg_vote",6.1
+"108","We're Rich Again","males_18age_avg_vote",6.7
+"109","Love in Bloom","males_18age_avg_vote",6.4
+"110","My Dear Miss Aldrich","males_18age_avg_vote",6.3
+"111","Dr. Jack","males_0age_avg_vote",7.2
+"112","Il talismano della nonna","males_0age_avg_vote",7.1
+"113","PerchÃ© preoccuparsi?","males_0age_avg_vote",7.4
+"114","Il re degli scapoli","males_0age_avg_vote",7.3
+"115","Il ladro di Bagdad","males_0age_avg_vote",7.8
+"116","Viva lo sport","males_0age_avg_vote",7.4
+"117","Il re degli straccioni","males_0age_avg_vote",7.5
+"118","Il fratello minore","males_0age_avg_vote",7.5
+"119","A rotta di collo","males_0age_avg_vote",7.7
+"120","Evviva il pericolo!","males_0age_avg_vote",6.3
+"121","Jeeudo","males_allages_avg_vote",9.6
+"122","The Moving on Phase","males_allages_avg_vote",9.5
+"123","Set Me Free: Vol. I","males_allages_avg_vote",5.9
+"124","Le ali della libertÃ ","males_allages_avg_vote",9.1
+"125","Hababam Sinifi","males_allages_avg_vote",9.3
+"126","Jibon Theke Neya","males_allages_avg_vote",9.3
+"127","Warmth","males_allages_avg_vote",6.3
+"128","Zana","males_allages_avg_vote",9.4
+"129","Poeta","males_allages_avg_vote",8.4
+"130","Il padrino","males_allages_avg_vote",8.9
+"131","Ikinci pÃ¤rdÃ¤","allgenders_45age_avg_vote",8.7
+"132","Agir Romantik","allgenders_45age_avg_vote",8.6
+"133","Orbius","allgenders_45age_avg_vote",9.5
+"134","2 States","allgenders_45age_avg_vote",8.9
+"135","Jeeudo","allgenders_45age_avg_vote",9.6
+"136","Coronavirus. Apocalypse","allgenders_45age_avg_vote",9.2
+"137","Dujone","allgenders_45age_avg_vote",5.7
+"138","Hollywood Mouth 2","allgenders_45age_avg_vote",3.4
+"139","Jil","allgenders_45age_avg_vote",6.1
+"140","Six X","allgenders_45age_avg_vote",7.7
+"141","Bonzo Goes to College","allgenders_30age_avg_vote",5.1
+"142","The Pigeon Egg Strategy","allgenders_30age_avg_vote",8.9
+"143","Edadugula Bandham","allgenders_30age_avg_vote",9.4
+"144","Venussian Tabutasco","allgenders_30age_avg_vote",9.5
+"145","Tenussian Vacuvasco","allgenders_30age_avg_vote",9.1
+"146","Adhirindhi Alludu","allgenders_30age_avg_vote",8.9
+"147","Shut Up and Deal","allgenders_30age_avg_vote",5
+"148","Jeeudo","allgenders_30age_avg_vote",9.6
+"149","Padmavyuham","allgenders_30age_avg_vote",9.4
+"150","Digbhayam","allgenders_30age_avg_vote",9
+"151","The Nigger","allgenders_18age_avg_vote",7
+"152","Der KlosterjÃ¤ger","allgenders_18age_avg_vote",8.6
+"153","Charley's Aunt","allgenders_18age_avg_vote",6.4
+"154","The Flirting Widow","allgenders_18age_avg_vote",6.6
+"155","The Heart of New York","allgenders_18age_avg_vote",6.2
+"156","New Adventures of Get-Rich-Quick Wallingford","allgenders_18age_avg_vote",8.1
+"157","Rebound","allgenders_18age_avg_vote",6.4
+"158","I conquistatori","allgenders_18age_avg_vote",6.5
+"159","Strictly Dynamite","allgenders_18age_avg_vote",6.2
+"160","We're Rich Again","allgenders_18age_avg_vote",6.7
+"161","Dr. Jack","allgenders_0age_avg_vote",7.2
+"162","Il talismano della nonna","allgenders_0age_avg_vote",7.1
+"163","PerchÃ© preoccuparsi?","allgenders_0age_avg_vote",7.4
+"164","Il re degli scapoli","allgenders_0age_avg_vote",7.3
+"165","Il ladro di Bagdad","allgenders_0age_avg_vote",7.8
+"166","Viva lo sport","allgenders_0age_avg_vote",7.4
+"167","Il re degli straccioni","allgenders_0age_avg_vote",7.5
+"168","Il fratello minore","allgenders_0age_avg_vote",7.5
+"169","A rotta di collo","allgenders_0age_avg_vote",7.7
+"170","Il tenente di Napoleone","allgenders_0age_avg_vote",6.7
+"171","0","0",0
